@@ -89,5 +89,5 @@ This dataset provides key insights into patient care, hospital operations, and f
 
 ## Dashboard Screenshot
 
-![Hospital Insights Dashboard](dashboard.png)
+![Hospital Insights Dashboard](dashboard image of power bi.png)
 
